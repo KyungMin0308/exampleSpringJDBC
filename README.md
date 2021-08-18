@@ -30,6 +30,7 @@
   + **Offer**
 * **props**
   + Database를 접근하기 위한 Property 정보
+  + username과 password에는 본인의 MySQL 정보 입력
   + **jdbc.properties**
 
 
